@@ -8,4 +8,4 @@ menu:
 
 # Contact
 
-[Open an issue](https://github.com/maxmerc/hugo-mock-landing-page/issues/new) on GitHub.
+[Open an issue](https://github.com/maxmerc/hugo-mock-landing-page-autodeployed/issues/new) on GitHub.
