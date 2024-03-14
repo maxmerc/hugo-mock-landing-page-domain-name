@@ -1,4 +1,4 @@
-baseURL = 'https://maxmerc.github.io/hugo-mock-landing-page/'
+baseURL = 'https://maxmerc.github.io/hugo-mock-landing-page-autodeployed/'
 title = "GTOBot"
 author = "Max Mercado"
 copyright = "Max Mercado"
